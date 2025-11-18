@@ -1,55 +1,82 @@
-<!-- PROFILE README -->
+# Hi, I'm Jason 👋
 
-<h1 align="center">Hi, I'm Jason Poteet 👋</h1>
+I'm a software engineer with 25+ years of experience across front-end, back-end, full stack, and databases — building systems for government, private sector, and entrepreneurial projects.
 
-<p align="center">
-	Senior Software Engineer • JavaScript/TypeScript • React • Next.js • Node • Vite
-<br/>
-	Building modern UIs, reliable APIs, and smooth DX.
-</p>
-
-<p align="center">
-	<a href="https://github.com/jasonsdevspace"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jasonsdevspace?style=flat"></a>
-	<a href="https://github.com/jasonsdevspace?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Repos-Explore-informational"></a>
-	<a href="mailto:jasonsdevspace@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jasonsdevspace@gmail.com-blue"></a>
-	<a href="https://www.linkedin.com/in/jasonpoteet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jasonpoteet-0a66c2?logo=linkedin&logoColor=white"></a>
-</p>
+I care about **clean, maintainable, and reusable code** that runs efficiently, and I lean heavily on **TypeScript**, **React**, and **modern tooling** (Vite, Next.js, Node.js, Postgres, Supabase, Docker, GitHub Actions).
 
 ---
 
-### About me
-- Focus: React/Next.js, TypeScript, Node, Vite, Tailwind
-- Pragmatic about testing, performance, and maintainability
-- Currently: building performant frontends and clean APIs
+## What I Work With
 
-### What I’m up to
-- Exploring modern bundling (Vite/Rspack) and React Server Components
-- Brushing up on Java best practices
-- Open to interesting senior/staff front‑end work
+**Languages**
+- TypeScript, JavaScript
+- HTML, CSS
+- SQL (Postgres, MySQL)
+- Some: Java, Python
 
-### Skills (short list)
-**Frontend:** React, Next.js, TypeScript, Tailwind, React Query
+**Front-End**
+- React, Next.js
+- Vite, React Router
+- Tailwind CSS, CSS Modules
+- Component-driven architecture
 
-**Backend:** Node.js, Express/Fastify, PostgreSQL, Supabase
+**Back-End**
+- Node.js, Fastify / Express
+- REST APIs, GraphQL
+- Postgres, Supabase
+- Authentication & authorization
 
-**Infra/DevOps:** Docker, GitHub Actions, AWS (Lambdas/Step Functions), Vercel
+**DevOps & Tooling**
+- Docker, docker-compose
+- GitHub Actions CI
+- Testing: Vitest, Jest, Testing Library
+- Linting & formatting: ESLint, Prettier
 
-### Selected projects
-- Tic Tac Toe (React + Vite) → [Live (coming soon)](#) · [Code (coming soon)](#)
-- Fun App #1 – Tiny React/Vite app → [Live](https://jasonsdevspace.github.io/fun-app-1/) · [Code](https://github.com/jasonsdevspace/fun-app-1)
-- Fun App #2 – Small experiment → [Live](https://jasonsdevspace.github.io/fun-app-2/) · [Code](https://github.com/jasonsdevspace/fun-app-2)
-- Recipe Manager (Next.js + Supabase) → [Code](https://github.com/jasonsdevspace/recipe-manager)
+---
 
-### Resume
-- PDF: [Download](./resume.pdf) (add your file here)
-- JSON: [resume.json](./resume.json) (optional if you keep a structured resume)
+## Highlighted Projects
 
-### Contact
+> These are the repos I use in interviews to discuss architecture, trade-offs, and coding style.
+
+- **[`frontend-dashboard`](https://github.com/jasonsdevspace/frontend-dashboard)**  
+  React + Vite + TypeScript dashboard that demonstrates component architecture, hooks, state management, and testing.
+
+- **[`fullstack-next-supabase`](https://github.com/jasonsdevspace/fullstack-next-supabase)**  
+  Full-stack example using Next.js and Supabase for authentication, database access, and API routes with end-to-end TypeScript.
+
+- **[`backend-api-fastify`](https://github.com/jasonsdevspace/backend-api-fastify)**  
+  Type-safe REST API using Fastify, structured logging, validation, and Docker-based local development.
+
+- **[`algorithms-sandbox`](https://github.com/jasonsdevspace/algorithms-sandbox)**  
+  Implementations of data structures and algorithms in TypeScript, focused on readability, tests, and performance discussion.
+
+- **[`architecture-patterns`](https://github.com/jasonsdevspace/architecture-patterns)**  
+  Small examples of common patterns (layered architecture, repository pattern, event-driven flows) in TypeScript.
+
+- **[`simple-games-react`](https://github.com/jasonsdevspace/simple-games-react)**  
+  A collection of small React games (tic-tac-toe, etc.) showing UI state management and clean separation of logic from presentation.
+
+---
+
+## How I Like to Work
+
+- Favor **clarity over cleverness**.
+- Design for **change and extension**, not just the happy path.
+- Use **tests and types** to keep refactors safe.
+- Automate what I can with **scripts and CI**.
+- Communicate via **docs and small, focused commits**.
+
+If you're interested in my work or want to discuss an opportunity, feel free to reach out via GitHub or LinkedIn.
+
+**Connect**
+- GitHub: https://github.com/jasonsdevspace
 - LinkedIn: https://www.linkedin.com/in/jasonpoteet/
-- Email: jasonsdevspace@gmail.com
 
----
+<!--
+## Resume
 
-Note on interactive content: GitHub profile READMEs don’t run JavaScript, so you can’t embed a playable game directly. Host your Tic Tac Toe on GitHub Pages/Vercel and link a screenshot/GIF here with a “Live” link.
+- PDF: [Download](./resume.pdf)
+- JSON: [resume.json](./resume.json)
 
-> Tip: Keep project READMEs tight: 1‑2 screenshots, tech stack bullets, 3‑5 highlights (perf wins, DX, testing, accessibility, reliability).
+Coming soon—uncomment once the files are added to the repo.
+-->
