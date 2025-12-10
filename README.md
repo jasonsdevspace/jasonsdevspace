@@ -32,32 +32,6 @@ I care about **clean, maintainable, and reusable code** that runs efficiently, a
 - Testing: Vitest, Jest, Testing Library
 - Linting & formatting: ESLint, Prettier
 
----
-
-## Highlighted Projects
-
-> These are the repos I use in interviews to discuss architecture, trade-offs, and coding style.
-
-- **[`frontend-dashboard`](https://github.com/jasonsdevspace/frontend-dashboard)**  
-  React + Vite + TypeScript dashboard that demonstrates component architecture, hooks, state management, and testing.
-
-- **[`fullstack-next-supabase`](https://github.com/jasonsdevspace/fullstack-next-supabase)**  
-  Full-stack example using Next.js and Supabase for authentication, database access, and API routes with end-to-end TypeScript.
-
-- **[`backend-api-fastify`](https://github.com/jasonsdevspace/backend-api-fastify)**  
-  Type-safe REST API using Fastify, structured logging, validation, and Docker-based local development.
-
-- **[`algorithms-sandbox`](https://github.com/jasonsdevspace/algorithms-sandbox)**  
-  Implementations of data structures and algorithms in TypeScript, focused on readability, tests, and performance discussion.
-
-- **[`architecture-patterns`](https://github.com/jasonsdevspace/architecture-patterns)**  
-  Small examples of common patterns (layered architecture, repository pattern, event-driven flows) in TypeScript.
-
-- **[`simple-games-react`](https://github.com/jasonsdevspace/simple-games-react)**  
-  A collection of small React games (tic-tac-toe, etc.) showing UI state management and clean separation of logic from presentation.
-
----
-
 ## How I Like to Work
 
 - Favor **clarity over cleverness**.
