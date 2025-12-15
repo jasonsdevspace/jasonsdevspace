@@ -1,6 +1,6 @@
 # Hi, I'm Jason 👋
 
-I'm a software engineer with 25+ years of experience across front-end, back-end, full stack, and databases — building systems for government, private sector, and entrepreneurial projects.
+I'm a software engineer with 25+ years of experience across front-end, back-end, full stack, and databases. I've built systems for government, private sector, and entrepreneurial projects.
 
 I care about **clean, maintainable, and reusable code** that runs efficiently, and I lean heavily on **TypeScript**, **React**, and **modern tooling** (Vite, Next.js, Node.js, Postgres, Supabase, Docker, GitHub Actions).
 
