@@ -2,9 +2,11 @@
 
 **Engineering Leader · Staff Software Engineer.** I lead teams and still ship code, for government, enterprise, and startup work.
 
-I've led cross-functional teams of four to six engineers alongside QA and UX, and I've stayed close to the code the whole way: TypeScript across the stack, React on the surface, typed APIs and Postgres behind. I care about **clean, maintainable, and reusable code** that runs efficiently, and I lean on **modern tooling** (Vite, Next.js, Node.js, Supabase, Docker, GitHub Actions) to keep the next change cheap.
+I've led cross-functional teams of up to seven engineers alongside QA and UX, and I've stayed close to the code the whole way: TypeScript across the stack, React on the surface, typed APIs and Postgres behind. I care about **clean, maintainable, and reusable code** that runs efficiently, and I lean on **modern tooling** (Vite, Next.js, Node.js, Supabase, Docker, GitHub Actions) to keep the next change cheap.
 
 **Portfolio:** [jasonsdevspace.github.io](https://jasonsdevspace.github.io)
+
+**Featured project:** [inventory-reservations](https://github.com/jasonsdevspace/inventory-reservations), a multi-tenant inventory ledger in TypeScript and Postgres, with row level security, least privilege roles, and concurrency control tested against twelve simultaneous orders for one unit of stock.
 
 ---
 
@@ -44,7 +46,7 @@ I've led cross-functional teams of four to six engineers alongside QA and UX, an
 
 ## How I Lead
 
-- Make architectural decisions **explicit and reversible**, favouring short design docs over long debates.
+- Make architectural decisions **explicit and reversible**, favoring short design docs over long debates.
 - Review with the same three questions: what breaks, what gets slower, what gets simpler.
 - Run 1:1s for the engineer, not the status report.
 - Remove ambiguity before it compounds, and protect the team from interrupts.
