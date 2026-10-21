@@ -44,7 +44,7 @@ I've led cross-functional teams of four to six engineers alongside QA and UX, an
 
 ## How I Lead
 
-- Make architectural decisions **explicit and reversible** — short design docs over long debates.
+- Make architectural decisions **explicit and reversible**, favouring short design docs over long debates.
 - Review with the same three questions: what breaks, what gets slower, what gets simpler.
 - Run 1:1s for the engineer, not the status report.
 - Remove ambiguity before it compounds, and protect the team from interrupts.
