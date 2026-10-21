@@ -54,7 +54,6 @@ If you're interested in my work or want to discuss an opportunity, feel free to 
 **Connect**
 - Portfolio: https://jasonsdevspace.github.io
 - GitHub: https://github.com/jasonsdevspace
-- LinkedIn: https://www.linkedin.com/in/jasonpoteet
 - Email: jasonsdevspace@gmail.com
 
 <!--
