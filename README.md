@@ -12,29 +12,10 @@ I've led cross-functional teams of up to seven engineers alongside QA and UX, an
 
 ## What I Work With
 
-**Languages**
-- TypeScript, JavaScript
-- HTML, CSS
-- SQL (Postgres, MySQL)
-- Some: Java, Python
-
-**Front-End**
-- React, Next.js
-- Vite, React Router
-- Tailwind CSS, CSS Modules
-- Component-driven architecture
-
-**Back-End**
-- Node.js, Fastify / Express
-- REST APIs, GraphQL
-- Postgres, Supabase
-- Authentication & authorization
-
-**DevOps & Tooling**
-- Docker, docker-compose
-- GitHub Actions CI
-- Testing: Vitest, Jest, Testing Library
-- Linting & formatting: ESLint, Prettier
+- **Languages:** TypeScript, JavaScript, HTML, CSS, SQL (Postgres, MySQL), some Java and Python
+- **Front end:** React, Next.js, Vite, React Router, Tailwind CSS, CSS Modules, component-driven architecture
+- **Back end:** Node.js, Fastify, Express, REST, GraphQL, Postgres, Supabase, authentication and authorization
+- **DevOps and tooling:** Docker, Docker Compose, GitHub Actions, Vitest, Jest, Testing Library, ESLint, Prettier
 
 ## How I Like to Work
 
@@ -51,9 +32,5 @@ I've led cross-functional teams of up to seven engineers alongside QA and UX, an
 - Run 1:1s for the engineer, not the status report.
 - Remove ambiguity before it compounds, and protect the team from interrupts.
 
-If you're interested in my work or want to discuss an opportunity, feel free to reach out.
-
-**Connect**
-- Portfolio: https://jasonsdevspace.github.io
-- GitHub: https://github.com/jasonsdevspace
-- Email: jasonsdevspace@gmail.com
+If you're interested in my work or want to talk about an opportunity, email me at
+[jasonsdevspace@gmail.com](mailto:jasonsdevspace@gmail.com).
