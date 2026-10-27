@@ -4,7 +4,7 @@
 
 I've led cross-functional teams of up to seven engineers alongside QA and UX, and I've stayed close to the code the whole way: TypeScript across the stack, React on the surface, typed APIs and Postgres behind. I care about **clean, maintainable, and reusable code** that runs efficiently, and I lean on **modern tooling** (Vite, Next.js, Node.js, Supabase, Docker, GitHub Actions) to keep the next change cheap.
 
-**Portfolio:** [jasonsdevspace.github.io](https://jasonsdevspace.github.io)
+**Portfolio:** [jasonsdevspace.com](https://jasonsdevspace.com)
 
 **Featured project:** [inventory-reservations](https://github.com/jasonsdevspace/inventory-reservations), a multi-tenant inventory ledger in TypeScript and Postgres, with row level security, least privilege roles, and concurrency control tested against twelve simultaneous orders for one unit of stock.
 
