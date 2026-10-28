@@ -6,7 +6,10 @@ I've led cross-functional teams of up to seven engineers alongside QA and UX, an
 
 **Portfolio:** [jasonsdevspace.com](https://jasonsdevspace.com)
 
-**Featured project:** [inventory-reservations](https://github.com/jasonsdevspace/inventory-reservations), a multi-tenant inventory ledger in TypeScript and PostgreSQL, with row level security, least privilege roles, and concurrency control tested against twelve simultaneous orders for one unit of stock. Its decisions are written up as decision records beside the code, and the [live demo](https://jasonsdevspace.com/inventory-reservations/) runs the store's own code against PostgreSQL in the browser.
+**Featured projects**
+
+- [ShelfLens](https://github.com/jasonsdevspace/shelflens), a product search engine and the store built on it: typo tolerance, synonyms, facets that count past their own filter, merchandising rules, and an explanation for every result, with the whole GraphQL API running in a service worker. The engine is on npm as [`@jasonsdevspace/shelflens`](https://www.npmjs.com/package/@jasonsdevspace/shelflens), the [live demo](https://jasonsdevspace.com/shelflens/) opens with a tour of the gotchas it exists to show, and eight decision records explain the choices.
+- [inventory-reservations](https://github.com/jasonsdevspace/inventory-reservations), a multi-tenant inventory ledger in TypeScript and PostgreSQL, with row level security, least privilege roles, and concurrency control tested against twelve simultaneous orders for one unit of stock. Its decisions are written up as decision records beside the code, and the [live demo](https://jasonsdevspace.com/inventory-reservations/) runs the store's own code against PostgreSQL in the browser.
 
 ---
 
