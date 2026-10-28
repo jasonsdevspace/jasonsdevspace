@@ -145,8 +145,5 @@ jasonsdevspace-github-io/
 template_web-games/
 weinfuse_bowling-scorer/
 
-# Contribution-graph padding. 601 commits appended one line each to this file
-# across 2024-2025. Removed 2026-10-19: the file was public on the profile
-# recruiters read, and the commits were attributed to a different account than
-# the one it filled the graph for. Ignored so it cannot come back by habit.
+# A log file an earlier workflow wrote on every commit. Kept out of the repo.
 .contributions
