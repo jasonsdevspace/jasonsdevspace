@@ -12,16 +12,16 @@ To talk about a role, email [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gma
 
 A product search engine and the store built on it, with the whole GraphQL API running in a service worker. The demo opens with a tour of the search mistakes it exists to catch and an explanation for every result, and eight decision records explain the choices.
 
-- [Try the ShelfLens demo](https://jasonsdevspace.com/shelflens/)
-- [ShelfLens source on GitHub](https://github.com/jasonsdevspace/shelflens)
+- [ShelfLens demo](https://jasonsdevspace.com/shelflens/)
+- [ShelfLens on GitHub](https://github.com/jasonsdevspace/shelflens)
 - [ShelfLens on npm](https://www.npmjs.com/package/@jasonsdevspace/shelflens)
 
 ### inventory-reservations
 
 A multi-tenant inventory ledger in TypeScript and PostgreSQL, with concurrency control tested against twelve simultaneous orders for one unit of stock. The demo runs the ledger's own code against PostgreSQL in the browser, including the race where two customers buy the last unit, and decision records sit beside the code.
 
-- [Try the inventory-reservations demo](https://jasonsdevspace.com/inventory-reservations/)
-- [inventory-reservations source on GitHub](https://github.com/jasonsdevspace/inventory-reservations)
+- [inventory-reservations demo](https://jasonsdevspace.com/inventory-reservations/)
+- [inventory-reservations on GitHub](https://github.com/jasonsdevspace/inventory-reservations)
 
 ## What I work with
 
