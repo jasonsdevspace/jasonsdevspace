@@ -42,7 +42,7 @@ A multi-tenant inventory ledger in TypeScript and PostgreSQL, with concurrency c
 ## How I lead
 
 - Make architectural decisions explicit and reversible, written up as decision records and small, focused commits rather than settled in long debates.
-- Review with the same three questions: what breaks, what gets slower, what gets simpler.
+- Review by asking what problem a change solves and whether this is a good way to solve it, with what breaks, what gets slower and what gets simpler in mind.
 - Run 1:1s for the engineer, not the status report.
 - Remove ambiguity before it compounds, and protect the team from interrupts.
 
