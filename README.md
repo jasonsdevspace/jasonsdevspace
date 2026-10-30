@@ -2,7 +2,7 @@
 
 **Engineering Leader · Staff Software Engineer.** I lead teams and still ship code, for government, enterprise, and startup work.
 
-I've led cross-functional teams of up to seven engineers alongside QA and UX, and stayed close to the code the whole way: TypeScript across the stack, React on the surface, typed APIs and PostgreSQL behind. My focus is the same either way: reduce complexity, make the next change safe, and help the team ship work they are proud of.
+I've led cross-functional teams of up to seven engineers alongside QA and UX, and stayed close to the code the whole way. TypeScript across the stack, React on the surface, typed APIs and PostgreSQL behind. My focus is the same either way: reduce complexity, make the next change safe, and help the team ship work they are proud of.
 
 To talk about a role, email [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gmail.com). The full picture is at [jasonsdevspace.com](https://jasonsdevspace.com).
 
@@ -10,7 +10,7 @@ To talk about a role, email [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gma
 
 ### ShelfLens
 
-A product search engine and the store built on it, with the whole GraphQL API running in a service worker. The demo opens with a tour of the search mistakes it exists to catch and an explanation for every result, and eight decision records explain the choices.
+A product search engine and the store built on it, with the whole GraphQL API running in a service worker. The demo opens with a tour of the search mistakes it exists to catch and an explanation for every result, and the decision records beside the code explain the choices.
 
 - [ShelfLens demo](https://jasonsdevspace.com/shelflens/)
 - [ShelfLens on GitHub](https://github.com/jasonsdevspace/shelflens)
@@ -35,14 +35,14 @@ A multi-tenant inventory ledger in TypeScript and PostgreSQL, with concurrency c
 ## How I like to work
 
 - Clarity over cleverness, in code and in conversation.
-- Design for change and extension, not just the happy path.
+- Design for change and extension, not only for the case where everything goes right.
 - Tests and types keep refactors safe.
 - Build for accessibility from the start: keyboard first, audited in CI, Lighthouse at a hundred before it ships.
 
 ## How I lead
 
 - Make architectural decisions explicit and reversible, written up as decision records and small, focused commits rather than settled in long debates.
-- Review by asking what problem a change solves and whether this is a good way to solve it, with what breaks, what gets slower and what gets simpler in mind.
+- Review by asking two questions: what problem does this solve, and is this a good way to solve it. Behind them, what breaks, what gets slower and what gets simpler.
 - Run 1:1s for the engineer, not the status report.
 - Remove ambiguity before it compounds, and protect the team from interrupts.
 
