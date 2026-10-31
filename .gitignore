@@ -139,11 +139,8 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 # Local working copies of other repositories live inside this directory.
-# They are separate git repos and must never be committed into the public
-# profile repo. Listed explicitly so a stray `git add -A` cannot sweep them in.
-jasonsdevspace-github-io/
-template_web-games/
-weinfuse_bowling-scorer/
+# They are listed in .git/info/exclude on the machine that holds them, so their
+# names stay off the public repo.
 
 # A log file an earlier workflow wrote on every commit. Kept out of the repo.
 .contributions
