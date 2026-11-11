@@ -25,7 +25,7 @@ A multi-tenant inventory ledger in TypeScript and PostgreSQL, with concurrency c
 
 ### design-kit
 
-A design system published on npm: the colors, type, buttons, form fields and page layouts behind the ShelfLens store and my portfolio site. Its site shows every piece live in light and dark with the code that draws it, a test holds its color pairings to WCAG AA contrast in both themes, and decision records sit beside the code.
+A design system published on npm: color and spacing tokens, a theme script, page chrome, buttons, form fields and an explainer layout. The ShelfLens store is drawn from it, and my portfolio site builds on its theme script and controls with a palette of its own. Its site shows every piece live in light and dark, a test holds its default colors to WCAG AA contrast in both themes, and decision records sit beside the code.
 
 - [design-kit site](https://jasonsdevspace.com/design-kit/)
 - [design-kit on GitHub](https://github.com/jasonsdevspace/design-kit)
