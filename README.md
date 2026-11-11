@@ -23,10 +23,18 @@ A multi-tenant inventory ledger in TypeScript and PostgreSQL, with concurrency c
 - [inventory-reservations demo](https://jasonsdevspace.com/inventory-reservations/)
 - [inventory-reservations on GitHub](https://github.com/jasonsdevspace/inventory-reservations)
 
+### design-kit
+
+A design system published on npm: the colors, type, buttons, form fields and page layouts behind the ShelfLens store and my portfolio site. Its site shows every piece live in light and dark with the code that draws it, a test holds its color pairings to WCAG AA contrast in both themes, and decision records sit beside the code.
+
+- [design-kit site](https://jasonsdevspace.com/design-kit/)
+- [design-kit on GitHub](https://github.com/jasonsdevspace/design-kit)
+- [design-kit on npm](https://www.npmjs.com/package/@jasonsdevspace/design-kit)
+
 ## What I work with
 
 - **Languages:** TypeScript, JavaScript, HTML, CSS, SQL (PostgreSQL, MySQL), Python, Java
-- **Front end:** React, Next.js, Vite, React Router, Tailwind CSS, CSS Modules
+- **Front end:** React, Next.js, Vite, React Router, Tailwind CSS, CSS Modules, design systems
 - **Back end:** Node.js, Fastify, Express, REST APIs, GraphQL, PostgreSQL, Supabase
 - **Cloud and DevOps:** AWS, Lambda, Step Functions, Docker, Docker Compose, CI and CD, GitHub Actions
 - **Observability:** New Relic, Datadog, CloudWatch
