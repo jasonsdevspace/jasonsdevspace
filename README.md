@@ -36,9 +36,10 @@ A design system published on npm: color, type and spacing tokens, a theme script
 - **Languages:** TypeScript, JavaScript, HTML, CSS, SQL (PostgreSQL, MySQL), Python, Java
 - **Front end:** React, Next.js, Vite, React Router, Tailwind CSS, CSS Modules, design systems
 - **Back end:** Node.js, Fastify, Express, REST APIs, GraphQL, PostgreSQL, Supabase
-- **Cloud and DevOps:** AWS, Lambda, Step Functions, Docker, Docker Compose, CI and CD, GitHub Actions
+- **Cloud and DevOps:** AWS, Lambda, Step Functions, Docker, Docker Compose, CI/CD, GitHub Actions
 - **Observability:** New Relic, Datadog, CloudWatch
-- **Testing and tooling:** Vitest, Jest, Testing Library, Playwright, axe, ESLint, Prettier
+- **Testing and tooling:** Vitest, Jest, Testing Library, Playwright, axe, Lighthouse, ESLint, Prettier
+- **AI coding tools:** Claude Code, Cursor, OpenAI Codex, GitHub Copilot, MCP connections, sub-agents and agent skills
 
 ## How I like to work
 
