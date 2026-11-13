@@ -39,7 +39,7 @@ A design system published on npm: color, type and spacing tokens, a theme script
 - **Cloud and DevOps:** AWS, Lambda, Step Functions, Docker, Docker Compose, CI/CD, GitHub Actions
 - **Observability:** New Relic, Datadog, CloudWatch
 - **Testing and tooling:** Vitest, Jest, Testing Library, Playwright, axe, Lighthouse, ESLint, Prettier
-- **AI coding tools:** Claude Code, Cursor, OpenAI Codex, GitHub Copilot, MCP connections, sub-agents and agent skills
+- **AI coding tools:** Claude Code, Cursor, Codex, GitHub Copilot, MCP connections, sub-agents and agent skills
 
 ## How I like to work
 
