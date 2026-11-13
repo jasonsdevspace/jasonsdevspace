@@ -2,57 +2,33 @@
 
 **Engineering Leader · Staff Software Engineer.** I lead teams and still ship code, for government, enterprise, and startup work.
 
-I've led cross-functional teams of up to seven engineers alongside QA and UX, and stayed close to the code the whole way. TypeScript across the stack, React on the surface, typed APIs and PostgreSQL behind. My focus is the same either way: reduce complexity, make the next change safe, and help the team ship work they are proud of.
+I've led cross-functional teams of up to seven engineers alongside QA and UX, and stayed close to the code the whole way. I build with AI coding tools every day, and I brought my teams onto an AI-assisted planning and review workflow. My focus is the same either way: reduce complexity, make the next change safe, and help the team ship work they are proud of.
 
-To talk about a role, email [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gmail.com). The full picture is at [jasonsdevspace.com](https://jasonsdevspace.com).
+To talk about a role, email [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gmail.com). My projects, career and how I lead are at [jasonsdevspace.com](https://jasonsdevspace.com).
 
-## Featured projects
+## Projects
 
-### ShelfLens
+Each link opens the project live in your browser. The code for each is in my pinned repositories.
 
-A product search engine and the store built on it, with the whole GraphQL API running in a service worker. The demo opens with a tour of the search mistakes it exists to catch and an explanation for every result, and the decision records beside the code explain the choices.
-
-- [ShelfLens demo](https://jasonsdevspace.com/shelflens/)
-- [ShelfLens on GitHub](https://github.com/jasonsdevspace/shelflens)
-- [ShelfLens on npm](https://www.npmjs.com/package/@jasonsdevspace/shelflens)
-
-### inventory-reservations
-
-A multi-tenant inventory ledger in TypeScript and PostgreSQL, with concurrency control tested against twelve simultaneous orders for one unit of stock. The demo runs the ledger's own code against PostgreSQL in the browser, including the race where two customers buy the last unit, and decision records sit beside the code.
-
-- [inventory-reservations demo](https://jasonsdevspace.com/inventory-reservations/)
-- [inventory-reservations on GitHub](https://github.com/jasonsdevspace/inventory-reservations)
-
-### design-kit
-
-A design system published on npm: color, type and spacing tokens, a theme script, page chrome, buttons, form fields and an explainer layout. The ShelfLens store is drawn from it, and my portfolio site builds on its theme script and controls with a palette of its own. Its site shows every piece live in light and dark, a test holds the color pairings its palette is meant for to WCAG AA contrast in both themes, and decision records sit beside the code.
-
-- [design-kit site](https://jasonsdevspace.com/design-kit/)
-- [design-kit on GitHub](https://github.com/jasonsdevspace/design-kit)
-- [design-kit on npm](https://www.npmjs.com/package/@jasonsdevspace/design-kit)
+- **[ShelfLens](https://jasonsdevspace.com/shelflens/)**, a product search engine and its store. It forgives typos, knows synonyms and explains why each result ranks where it does.
+- **[inventory-reservations](https://jasonsdevspace.com/inventory-reservations/)**, an inventory ledger that keeps two customers from buying the last unit. The demo runs the real code against PostgreSQL in the browser.
+- **[design-kit](https://jasonsdevspace.com/design-kit/)**, a design system published on npm and used by the ShelfLens store and my site. A test holds its color pairings to the WCAG AA contrast standard.
 
 ## What I work with
 
-- **Languages:** TypeScript, JavaScript, HTML, CSS, SQL (PostgreSQL, MySQL), Python, Java
-- **Front end:** React, Next.js, Vite, React Router, Tailwind CSS, CSS Modules, design systems
-- **Back end:** Node.js, Fastify, Express, REST APIs, GraphQL, PostgreSQL, Supabase
-- **Cloud and DevOps:** AWS, Lambda, Step Functions, Docker, Docker Compose, CI/CD, GitHub Actions
-- **Observability:** New Relic, Datadog, CloudWatch
-- **Testing and tooling:** Vitest, Jest, Testing Library, Playwright, axe, Lighthouse, ESLint, Prettier
+- **Languages:** TypeScript, JavaScript, SQL, Python, Java
+- **Front end:** React, Next.js, Vite, Tailwind CSS, design systems, accessibility
+- **Back end and data:** Node.js, Fastify, Express, GraphQL, REST APIs, PostgreSQL, MySQL, Supabase
+- **Cloud and delivery:** AWS, Lambda, Docker, CI/CD, GitHub Actions, Datadog, New Relic, CloudWatch
+- **Testing:** Vitest, Jest, Playwright, Testing Library, axe, Lighthouse
 - **AI coding tools:** Claude Code, Cursor, Codex, GitHub Copilot, MCP connections, sub-agents and agent skills
 
-## How I like to work
+## How I work
 
-- Clarity over cleverness, in code and in conversation.
-- Design for change and extension, not only for the case where everything goes right.
-- Tests and types keep refactors safe.
-- Build for accessibility from the start: keyboard first, audited in CI, Lighthouse at a hundred before it ships.
+- **Clarity over cleverness**, in code and in conversation.
+- **Decisions written down** as decision records and small, focused commits, so they can be revisited rather than argued again.
+- **Reviews that ask two questions:** what problem does this solve, and is this a good way to solve it.
+- **Tests and types** that keep a refactor safe, and accessibility from the start, keyboard first and audited in CI.
+- **1:1s for the engineer**, not for the status report.
 
-## How I lead
-
-- Make architectural decisions explicit and reversible, written up as decision records and small, focused commits rather than settled in long debates.
-- Review by asking two questions: what problem does this solve, and is this a good way to solve it. Behind them, what breaks, what gets slower and what gets simpler.
-- Run 1:1s for the engineer, not the status report.
-- Remove ambiguity before it compounds, and protect the team from interrupts.
-
-If you're interested in my work or want to talk about an opportunity, email me at [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gmail.com).
+The story behind each habit is on [How I lead](https://jasonsdevspace.com/how-i-work/).
