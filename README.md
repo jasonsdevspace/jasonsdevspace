@@ -11,7 +11,7 @@ To talk about a role, email [jasonsdevspace@gmail.com](mailto:jasonsdevspace@gma
 Each link opens the project live in your browser. The code for each is in my pinned repositories.
 
 - **[ShelfLens](https://jasonsdevspace.com/shelflens/)**, a product search engine and its store. It forgives typos, knows synonyms and explains why each result ranks where it does.
-- **[inventory-reservations](https://jasonsdevspace.com/inventory-reservations/)**, an inventory ledger that keeps two customers from buying the last unit. The demo runs the real code against PostgreSQL in the browser.
+- **[inventory-reservations](https://jasonsdevspace.com/inventory-reservations/)**, an inventory service that keeps two customers from buying the last unit. The demo runs the real code against PostgreSQL in the browser.
 - **[design-kit](https://jasonsdevspace.com/design-kit/)**, a design system published on npm and used by the ShelfLens store and my site. A test holds its intended color pairings to WCAG AA contrast.
 
 ## What I work with
