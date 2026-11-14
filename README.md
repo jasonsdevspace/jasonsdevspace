@@ -14,6 +14,8 @@ Each link opens the project live in your browser. The code for each is in my pin
 - **[inventory-reservations](https://jasonsdevspace.com/inventory-reservations/)**, an inventory service that keeps two customers from buying the last unit. The demo runs the real code against PostgreSQL in the browser.
 - **[design-kit](https://jasonsdevspace.com/design-kit/)**, a design system published on npm and used by the ShelfLens store and my site. A test holds its intended color pairings to WCAG AA contrast.
 
+The problem each one solves and the decisions that shaped it, with what each decision turned down or cost, are on [Projects](https://jasonsdevspace.com/projects/).
+
 ## What I work with
 
 - **Languages:** TypeScript, JavaScript, SQL, Python, Java
