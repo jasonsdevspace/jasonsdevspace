@@ -18,10 +18,11 @@ The problem each one solves and a few of the decisions that shaped it, with what
 
 ## What I work with
 
-- **Languages:** TypeScript, JavaScript, SQL, Python, Java
-- **Front end:** React, React Native, Next.js, Vite, Tailwind CSS, progressive web apps (PWAs), PhoneGap and Apache Cordova, design systems, accessibility
-- **Back end and data:** Node.js, Fastify, Express, GraphQL, REST APIs, PostgreSQL, MySQL, Supabase
-- **Cloud and delivery:** AWS, Lambda, Docker, CI/CD, GitHub Actions, feature flags, LaunchDarkly, blue/green deploys, per-PR environments, Datadog, New Relic, CloudWatch
+- **Languages:** TypeScript, JavaScript, SQL, Python
+- **Front end:** React, React Native, Next.js, Vite, Tailwind CSS, progressive web apps (PWAs), design systems, accessibility
+- **Back end and data:** Node.js, Fastify, Express, GraphQL, REST APIs, PostgreSQL
+- **Cloud and delivery:** AWS, Lambda, Docker, CI/CD, GitHub Actions, feature flags, LaunchDarkly, blue/green deploys, preview environments
+- **Observability:** Datadog, CloudWatch, New Relic
 - **Testing:** Vitest, Jest, Playwright, Testing Library, axe, Lighthouse
 - **AI coding tools:** Claude Code, Cursor, Codex, GitHub Copilot, MCP connections, sub-agents and agent skills
 - **LLM development:** prompt design, tool calling, structured outputs, handling model failures and hallucinations, helping build an MCP server, GitHub Actions AI review of PRs, including Dependabot and Renovate updates
