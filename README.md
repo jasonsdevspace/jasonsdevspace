@@ -25,7 +25,7 @@ The problem each one solves and a few of the decisions that shaped it, with what
 - **Observability:** Datadog, CloudWatch, New Relic
 - **Testing:** Vitest, Jest, Playwright, Testing Library, axe, Lighthouse
 - **AI coding tools:** Claude Code, Cursor, Codex, GitHub Copilot, MCP connections, sub-agents and agent skills
-- **LLM development:** prompt design, tool calling, structured outputs, evals, handling model failures and hallucinations, engineering agents with human approval, semantic search and embedding-based retrieval, helping build an MCP server, GitHub Actions AI review of PRs, including Dependabot and Renovate updates
+- **LLM development:** prompt design, tool calling, structured outputs, evals, handling model failures and hallucinations, engineering agents with human approval, semantic search and embedding-based retrieval, product matching, helping build an MCP server, GitHub Actions AI review of PRs, including Dependabot and Renovate updates
 
 ## How I work
 
