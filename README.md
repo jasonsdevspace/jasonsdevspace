@@ -13,7 +13,7 @@ Each link opens the project live in your browser. The code for each is in my pin
 - **[ShelfLens](https://jasonsdevspace.com/shelflens/)**, a product search engine and its store. It forgives typos, knows synonyms and explains why each result ranks where it does.
 - **[inventory-reservations](https://jasonsdevspace.com/inventory-reservations/)**, an inventory service that keeps two customers from buying the last unit. The demo runs the real code against PostgreSQL in the browser.
 - **[design-kit](https://jasonsdevspace.com/design-kit/)**, a design system published on npm and used by the ShelfLens store and my site. A test holds its intended color pairings to WCAG AA contrast.
-- **[Game Table Tally](https://gametabletally.com)**, a card game scorekeeper that runs on one phone passed around the table. Each round of Flip 7 takes a few taps, the app applies the game's scoring rules, and once installed it works with no connection. Its [code and decision records](https://github.com/jasonsdevspace/gametabletally) are on GitHub.
+- **[Game Table Tally](https://gametabletally.com)**, a card game scorekeeper that runs on one phone passed around the table. Each round of Flip 7 or Skyjo takes a few taps, the app applies the game's scoring rules, and once installed it works with no connection. Its [code and decision records](https://github.com/jasonsdevspace/gametabletally) are on GitHub.
 
 For ShelfLens, inventory-reservations and design-kit, the problem each one solves and a few of the decisions that shaped it, with what each decision turned down or cost, are on [Projects](https://jasonsdevspace.com/projects/).
 
